@@ -1,0 +1,19 @@
+{
+  "name": "responsive_dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serdiuk-Maksym/Responsive_Dashboard.git"
+  },
+  "author": "Maksym Serdiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serdiuk-Maksym/Responsive_Dashboard/issues"
+  },
+  "homepage": "https://github.com/Serdiuk-Maksym/Responsive_Dashboard#readme"
+}
