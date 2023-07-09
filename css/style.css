@@ -3,6 +3,7 @@
 :root {
   --color-primary: #6c9bcf;
   --color-danger: #ff0060;
+  --color-logo: #fd9222;
   --color-success: #1b9c85;
   --color-warning: #f7d060;
   --color-white: #fff;
@@ -103,6 +104,10 @@ b {
 
 .danger {
   color: var(--color-danger);
+}
+
+.logo-color {
+  color: var(--color-logo);
 }
 
 .success {
